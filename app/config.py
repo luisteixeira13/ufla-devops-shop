@@ -15,7 +15,7 @@ PORT              8000                                           porta (so para 
 import os
 import socket
 
-VERSAO = "1.0.0"
+VERSAO = os.getenv("APP_VERSION", "1.0.0")
 
 DATABASE_URL = os.getenv("DATABASE_URL", "").strip()
 REDIS_URL = os.getenv("REDIS_URL", "").strip()
