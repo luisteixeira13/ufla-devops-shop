@@ -1,3 +1,5 @@
+[![CI](https://github.com/luisteixeira13/ufla-devops-shop/actions/workflows/ci.yml/badge.svg)](https://github.com/luisteixeira13/ufla-devops-shop/actions/workflows/ci.yml)
+
 # ufla-devops-shop
 
 Repositório da turma de **DevOps na Prática** — DCC / UFLA.
